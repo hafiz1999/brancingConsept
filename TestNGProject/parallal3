@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="hBhai">
+	<test name="HafizName">
+		<classes>
+			<class name="com.bit.ui.test.BaseTest">
+				
+			</class>
+		</classes>
+	</test>
+</suite>
+
+//here run Basetest class level , next try to test level paralall4 file.

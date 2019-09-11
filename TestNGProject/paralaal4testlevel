@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="hBhai">
+	<test name="java.lang.String">
+		
+	</test>
+</suite>
+
+
+// here testlevel SmokeTest class run  next try to suite level?

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="hBhai" duration-ms="45" started-at="2019-09-01T23:47:10Z" finished-at="2019-09-01T23:47:11Z">
+    <groups>
+    </groups>
+    <test name="java.lang.String" duration-ms="45" started-at="2019-09-01T23:47:10Z" finished-at="2019-09-01T23:47:11Z">
+    </test> <!-- java.lang.String -->
+  </suite> <!-- hBhai -->
+</testng-results>

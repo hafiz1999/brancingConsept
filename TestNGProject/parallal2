@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="hBhai">
+	<test name="HafizName">
+		<classes>
+			<class name="com.bit.ui.test.SmokeTest">
+				<methods>
+					<include name="test2"> </include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
+
+// here we do  single test2 created parallel2 file in methoad level.

@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="hBhai">
+	<test name="HafizName">
+		<classes>
+			<class name="com.bit.ui.test.SmokeTest">
+				<methods>
+					<include name="test1"> </include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
+
+// here up we did single test1 run by using testNG in methode lelel.
+
+<!-- 
+<Suite name="whatever">
+<test name="whatever">
+<classes>
+</classes>
+<class name="packageName.className">
+<methods>
+<include name="test2"></include>
+</methods>
+</class>
+</test>
+</Suite> -->
